@@ -19,7 +19,17 @@ Crie um programa que gere o hash de um arquivo submetido pelo usuário e gere o 
 
 No documento do Word, inclua um print screen que exibe a saída do programa (valor de hash gerado).
 
+### Resposta: 
+![Imagem 1](assets/resultados/questao01.png)
 
 ## Questão 2
 
 Crie um programa que valide a integridade de um arquivo. O programa deve possibilitar que o usuário submeta o arquivo a ser validado bem como o valor de hash. O programa deverá informar se o arquivo está integro ou não.
+
+
+### Resposta: 
+
+| Arquivo               | Imagem                                                      |
+|-----------------------|-------------------------------------------------------------|
+| Arquivo Integro       | ![Mantida integridade](assets/resultados/questao02-1.png)   |
+| Arquivo Não Integro   | ![Mantida integridade](assets/resultados/questao02-1.png)   |
